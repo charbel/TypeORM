@@ -1,0 +1,11 @@
+{
+  "name": "typeorm",
+  "version": "1.0.0",
+  "description": "Test Typeorm ORM in node express",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Charbel Ghadban",
+  "license": "ISC"
+}
